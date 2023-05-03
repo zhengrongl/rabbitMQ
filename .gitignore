@@ -1,0 +1,11 @@
+target/
+
+# 排除所有.class文件:
+*.class
+.classpath
+
+.idea
+*.iws
+*.iml
+*.ipr
+*.iml
